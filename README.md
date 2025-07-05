@@ -1,12 +1,36 @@
-# React + Vite
+# Todo Magic ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! This is my **Todo Magic** app — a simple and beautiful React to-do list project I built to keep my daily tasks organized and add a bit of fun to productivity. 🌈
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What it does
 
-## Expanding the ESLint configuration
+- Add new tasks with a click or by pressing Enter  
+- Mark tasks as done by clicking the circle  
+- Delete tasks when you’re done or don’t need them anymore  
+- Track your progress with stats and a progress bar  
+- Enjoy a smooth, modern UI with cool animations and gradients  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech stack
+
+- React (with hooks)  
+- Lucide React icons  
+- CSS with a neat glassmorphism vibe  
+- No backend — all local state, perfect for learning and quick use!  
+
+---
+
+## What I learned
+
+- Managing React state with hooks  
+- Handling user input and keyboard events  
+- Using SVG icons and customizing styles  
+- Designing a clean, responsive UI with CSS  
+
+Thanks for checking out my project! Feel free to leave feedback or suggestions — I’m always learning! 😊
+
+**Khushboo**  
+
